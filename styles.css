@@ -1,0 +1,21 @@
+body {background-color : pink;}
+
+h2 {text-align: center;}
+h5 {text-align: right;}
+.motivation {text-align: center;
+    font-size:35px;
+    margin: auto;
+	width: 60%;
+	border: 4px dotted #1ea9fa;
+	padding: 50px;
+	font-family: cursive, sans-serif;}
+
+button {margin-left: auto;
+	margin-right:auto;
+	display:block;
+    font-family: cursive, serif;
+	font-size: 35px;
+	background-color: #1ea9fa;}
+
+button:hover { background-color: #fc7c87;
+color:white;}
